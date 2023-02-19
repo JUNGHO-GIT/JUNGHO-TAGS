@@ -34,7 +34,7 @@ function confirmIdCheck() {
          type:'POST',
          data: 'id=' + $( '#id' ).val(),
          url: '/co.kr.test07board/member/idCheck.do',
-         dataType:'JSON',
+         dataType:'xml',
          success:function(data) {
             if(data.check == -1) {
                alert('사용 중인 ID입니다.');
