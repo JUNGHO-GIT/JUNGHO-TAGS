@@ -1,0 +1,30 @@
+h2 {
+   text-align: center;
+}
+
+table {
+   margin: auto;
+   min-width:50%;
+   max-width:80%;
+}
+
+BODY {
+   background-color:#e0ffff;
+}
+
+a:link,a:visited,a:active {
+   text-decoration : none;
+}
+
+a:hover {
+   text-decoration : underline;
+   color : red;
+}
+
+TABLE, TD,TR, TH {
+   font-size:11pt;
+}
+
+p {
+   font-size:11pt;
+}
