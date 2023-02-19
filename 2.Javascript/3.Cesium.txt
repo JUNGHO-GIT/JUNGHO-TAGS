@@ -1,5 +1,0 @@
-// CSS
-<link rel="stylesheet" href="https://cesium.com/downloads/cesiumjs/releases/1.85/Build/Cesium/Widgets/widgets.css">
- 
-// JavaScript 파일
-<script src="https://cesium.com/downloads/cesiumjs/releases/1.85/Build/Cesium/Cesium.js"></script>
